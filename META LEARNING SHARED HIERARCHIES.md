@@ -45,6 +45,17 @@ The master policy samples actions at a fixed frequency of $N$ timesteps, i.e., a
 
 [code and supplemental videos are available](https://blog.openai.com/learning-a-hierarchy/)
 
+##### Network architecture and learning algorithm
+
+Multi Layer (2 layer) Perceptron for both master and sub-policies with a hidden size 64.
+Policy gradient ([PPO](https://blog.openai.com/openai-baselines-ppo/))
+
+##### Hyper parameters
+
+* Learning rate for $\theta$: 0.01
+* Learning rate for $\phi$: 0.0003
+* Batch size (D): 2000
+
 ## Any discussions?
 
 ## What should I read next?
