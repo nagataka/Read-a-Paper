@@ -13,7 +13,7 @@ MIT
 
 ## What is 
 
-Proposed a RL agent with hierarchical structure with intrinsic sub-goals.
+Proposed a RL agent using hierarchical structure with intrinsically motivated sub-goals.
 
 ## Comparison with previous researches. What are the novelties/good points?
 
