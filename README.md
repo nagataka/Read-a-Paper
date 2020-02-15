@@ -22,3 +22,10 @@
 ## What should I read next?
 
 ```
+
+# Reminder
+
+Ask following questions for yourself when you read a paper:
+* What will/can you do to make this research one step forward?
+* What can I achieve by using this proposed method?
+* What other problems the researchers in the same domain have been facing?
